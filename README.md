@@ -1,0 +1,2 @@
+# GameDB-SegaCD
+Sega CD
