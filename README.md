@@ -8,5 +8,5 @@ Sega CD, part of [GameDB](https://github.com/niemasd/GameDB).
 * **[`SegaCD.titles.json`](https://github.com/niemasd/GameDB-SegaCD/releases/latest/download/SegaCD.titles.json):** Mapping of serial numbers to game titles, structured in the JSON format
 
 # Sources
-* [GameFAQs](https://gamefaqs.gamespot.com/
+* [GameFAQs](https://gamefaqs.gamespot.com)
 * [Redump](https://redump.org)
